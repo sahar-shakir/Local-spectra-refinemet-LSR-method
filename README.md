@@ -15,7 +15,7 @@ Using and sharing regulations of LSC method:
 research, not for any business or commercial activities.
 2. The codes can be used by yourself only. Please do not
 expose the codes to others without our priori approval.
-3.  Please mention the work as:
+3. If you use this work, please cite the paper:
 'Unsupervised fabric defect detection with local spectra clustering (LSC)'
 Sahar Shakir and Cihan Topal.
 in any publication , such as conference proceeding, journals, etc, related to the codes.
