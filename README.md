@@ -1,4 +1,4 @@
-General Regulation of Local spectra Clustering (LSC) method
+General Regulation of Local spectra refinement (LSR) method
 
 Researchers: Sahar Shakir and Cihan Topal
 
@@ -16,6 +16,5 @@ research, not for any business or commercial activities.
 2. The codes can be used by yourself only. Please do not
 expose the codes to others without our priori approval.
 3. If you use this work, please cite the paper:
-'Unsupervised fabric defect detection with local spectra clustering (LSC)'
-Sahar Shakir and Cihan Topal.
+Shakir, S., Topal, C. Unsupervised fabric defect detection with local spectra refinement (LSR). Neural Comput & Applic (2023). https://doi.org/10.1007/s00521-023-09080-0.
 in any publication , such as conference proceeding, journals, etc, related to the codes.
